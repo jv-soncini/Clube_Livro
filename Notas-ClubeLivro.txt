@@ -1,0 +1,35 @@
+O site devera conter:
+
+<home>
+	Nav
+	Header
+	Descrição
+	Codigo de ética (Carrosel)
+	enquetes
+	Divulgar AApm
+	Links
+	footer
+	criar caixa de sugestões - Pop up
+</Home>
+	
+<Sobre>
+	o Que é o clube
+	objetivos
+	o pretendemos realizar
+	realizações
+	surgimento
+	Local/Horario
+</Sobre>
+
+<Biblioteca>
+	Livros Pendentes
+	Livros Discutidos
+	Livro que estão sendo abordados
+</Biblioteca>
+
+<Enquetes>
+	mostrar enquetes abertas
+	mostrar enquetes encerradas
+	mostrar enquetes que estão pra acontecer
+	mostrar data de inicio e término 
+</Enquetes>
